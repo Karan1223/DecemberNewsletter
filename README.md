@@ -1,3 +1,3 @@
-# CTTodayOct23
+# CTTodayDecNewsLetter
 
-CT Today mailer for October 2023.
+CT Today NewsLetter for Dec 23.
